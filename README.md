@@ -1,4 +1,4 @@
 # ARIMA_generic_notebook
-An original notebook demonstrating techniques for identifying the order of ARIMA processes 
+A notebook demonstrating techniques for identifying the order of ARIMA processes 
 
-*** rough draft ***
+
